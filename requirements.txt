@@ -4,3 +4,5 @@ piper-phonemize==1.1.0
 jsonschema==4.19.1
 numpy~=2.2.4
 pydub~=0.25.1
+moviepy~=2.1.2
+pillow~=10.4.0
